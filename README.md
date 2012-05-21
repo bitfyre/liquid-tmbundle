@@ -18,4 +18,4 @@ To install without Git:
     mv andrew-liquid-tmbundle* "Liquid.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
 
-Mirrored from: <http://blog.radixhound.com/2007/1/31/liquid-textmate-bundle>
+This bundle contains additional Snippets and Grammar used in internal projects.
